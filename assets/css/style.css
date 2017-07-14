@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(190, 191, 180);
+    text-align: center;
+}
+
+#color {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+button {
+    cursor: pointer;
+    display: block;
+    width: 100px;
+    outline: 0;
+    border: 0;
+    margin: 20px auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.pull-left {
+    float: left;
+}
+
+.btn {
+    padding: 10px 10px;
+    margin: 10px 1px;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
