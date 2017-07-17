@@ -8,4 +8,4 @@ then
 ```
 > npm run start-dev
 ```
-then project can be accessible on http://localhost:8080/ 
+then project is accessible on http://localhost:8080/ 
